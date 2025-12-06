@@ -51,7 +51,7 @@ Returns all devices or filtered by status
 
 
 
-## 🔧 Technologies Used
+## Technologies Used
 
 **Frontend:**
 - React 18
